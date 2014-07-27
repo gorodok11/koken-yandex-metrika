@@ -1,0 +1,18 @@
+{ 
+  "name": "Yandex Metrika",
+  "version": "1.0",
+  "description": "Automatically add Yandex Metrika code to any theme.",
+  "author": {
+    "name": "Mitrokhin Andrey",
+    "link": "http://mitrokhin.ru"
+  },
+
+  "data": {
+    "html_code": {
+      "label": "HTML Code",
+      "info": "You can find your HTML Code at Yandex Metrika account.",
+      "type": "text"
+
+    }
+  }
+}
